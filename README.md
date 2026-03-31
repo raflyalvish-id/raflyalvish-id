@@ -1,4 +1,3 @@
-# raflyalvish-id
 # Hi, I'm Rafly 👋
 
 I am a Data Analyst with a background in Geography Education, currently participating in the Data Analyst and Business Intelligence bootcamp at Dibimbing. I have hands-on experience working with structured data using Excel, SQL, and Python to generate insights and support data-driven decision making.
