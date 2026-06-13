@@ -1,18 +1,28 @@
 # Hi, I'm Rafly 👋
 
-I am a Data Analyst with a background in Geography Education, currently participating in the Data Analyst and Business Intelligence bootcamp at Dibimbing. I have hands-on experience working with structured data using Excel, SQL, and Python to generate insights and support data-driven decision making.
+A curious and detail-oriented Data Analyst & Business Intelligence enthusiast with a foundational background in Geography Education. My academic journey honed my skills in pattern recognition, structured data management, and spatial logic—which ultimately drove me to graduate as the Best Graduate (Wisudawan Terbaik) at the Program Studi Pendidikan Geografi, Universitas Pendidikan Indonesia.
 
-## 🔧 Skills & Tools
-- **Data Analysis:** Descriptive & Inferential Analysis, Data Cleaning, Data Transformation  
-- **Tools:** Excel (Pivot Tables, Power Query, Dashboards), SQL, Python  
-- **Data Visualization:** Power BI, Tableau, Google Data Studio  
-- **Statistical Analysis:** Correlation, Distribution, Z-score, Central Tendency  
-- **Spatial & Statistical Tools:** ArcGIS, Google Earth Engine, SPSS, JASP   
-
-## 📫 Let's Connect
-- LinkedIn: https://linkedin.com/in/raflyalvish
-- Email: muhraflyalviansyah@gmail.com
+Currently expanding my technical boundaries at Dibimbing.id’s Data Analyst & Business Intelligence Bootcamp, I focus on turning vast, raw datasets into organized, automated, and actionable business metrics.
 
 ---
 
-⭐ Currently open to opportunities as a **Junior Data Analyst / Data Analyst Intern**
+## 🛠️ Skills & Tools
+
+* **Programming & Databases:** Python (Pandas, NumPy, MLxtend), SQL (PostgreSQL, MySQL)
+* **Data Pipelines & Engineering:** ETL Pipelines Design, Star Schema Warehouse Modeling, Data Cleansing & Transformation
+* **Business BI & Visualization:** Power BI (Advanced DAX logic), Tableau, Microsoft Excel (Power Query, Pivot Tables, Advanced Formulas)
+* **Advanced Analytics & Methods:** Customer Segmentation (RFM), Market Basket Analysis, Web Analytics (GA4 Explore), Trend Anomaly Detection
+* **Statistical Analysis:** Descriptive & Inferential Statistics, Correlation, Distribution, Hypothesis Testing, SPSS, JASP
+* **Spatial Data Tools:** ArcGIS, Google Earth Engine
+
+---
+
+## 📬 Let's Connect
+
+* **LinkedIn:** [linkedin.com/in/raflyalvish](https://linkedin.com/in/raflyalvish)
+* **Email:** muhraflyalviansyah@gmail.com
+* **Website Portfolio:** [raflyalvish-id.github.io/Website-Portofolio](https://raflyalvish-id.github.io/Website-Portofolio)
+
+---
+
+⭐ **Currently open to opportunities as a Junior Data Analyst / Business Intelligence Analyst / Data Analyst Intern**
